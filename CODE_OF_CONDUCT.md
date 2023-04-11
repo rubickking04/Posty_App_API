@@ -7,3 +7,4 @@ The Laravel code of conduct is derived from the Ruby code of conduct. Any violat
 - When interpreting the words and actions of others, participants should always assume good intentions.
 
 - Behavior which can be reasonably considered harassment will not be tolerated.
+
