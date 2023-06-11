@@ -64,7 +64,7 @@
 <template >
     <div class="container py-5">
         <div class="row justify-content-center">
-            <div class="col-xl-4">
+            <div class="col-xl-4 col-md-8 col-sm-8">
                 <div class="card">
                     <div class="card-body py-2">
                         <div class="text-center mt-4 mb-2">

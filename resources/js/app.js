@@ -22,5 +22,3 @@ createApp(app).use(router).mount("#app");
  * an "id" attribute of "app". This element is included with the "auth"
  * scaffolding. Otherwise, you will need to add an element yourself.
  */
-
-

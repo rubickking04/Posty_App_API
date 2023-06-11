@@ -38,7 +38,6 @@ return [
         'mongodb' => [
             'driver' => 'mongodb',
             'dsn' => 'mongodb+srv://' . env('MONGODB_USERNAME') . ':' . env('MONGODB_PASSWORD') . '@' . env('MONGODB_CLUSTER') . '.' . env('MONGODB_HOST') . '/' . env('MONGODB_DATABASE') . '?retryWrites=true&w=majority',
-            // 'database' => env('DB_DATABASE'),
         ],
 
         'sqlite' => [
